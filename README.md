@@ -214,7 +214,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/75235167/169865812-d4c4f793-8599-4abf-bedb-0f0ffa81dba8.png)
 
 ## Time Complexity Plot
-#### Plot a graph for various value of N and time(seconds)
+#### Graph for various value of N and time(seconds)
 ![image](https://user-images.githubusercontent.com/75235167/169865899-876d324c-d95b-4353-9860-aecc2857643f.png)
 
 ## RESULT:
