@@ -1,6 +1,8 @@
-# Hill Climbing Algorithm for Eight Queens Problem
-## AIM
+### EX NO: 05
+### DATE:
+# <p align="center">Hill Climbing Algorithm for Eight Queens Problem</p>
 
+## AIM
 To develop a code to solve eight queens problem using the hill-climbing algorithm.
 
 ## THEORY
@@ -27,9 +29,10 @@ By calculating the time taken by the function to reduce the conflict for varying
 Plot a graph between time taken and iterations.
 
 ## PROGRAM
-### Developed By: N Sandhya charu
-### Register Number: 212220230041
 ```python3
+Developed By: N Sandhya charu
+Register Number: 212220230041
+
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
