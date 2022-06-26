@@ -204,6 +204,16 @@ plt.ylabel("Time taken")
 plt.plot(n_values,time_taken)
 plt.show()
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## OUTPUT:
 #### when the iterations increase, to complete the search time increases too.
 ![image](https://user-images.githubusercontent.com/75235167/169865456-3c8dccbc-f9ed-4af2-86d4-15b64cc7ec69.png)
